@@ -1,0 +1,14 @@
+# Local work files
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.env
+.env.*
+# Confidential inputs and research artifacts
+*.pdf
+RESULTS/
+data/
+cache/
+logs/
+*.zip
